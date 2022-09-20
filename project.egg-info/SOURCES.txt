@@ -1,0 +1,13 @@
+setup.py
+cardekho_scraping/__init__.py
+cardekho_scraping/items.py
+cardekho_scraping/middlewares.py
+cardekho_scraping/pipelines.py
+cardekho_scraping/settings.py
+cardekho_scraping/spiders/__init__.py
+cardekho_scraping/spiders/car_dekho.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
